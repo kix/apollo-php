@@ -9,5 +9,10 @@
             "email": "kixxx1@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Kix\\ApolloPHP\\": "src/"
+        }
+    },
     "require": {}
 }
