@@ -1,0 +1,13 @@
+{
+    "name": "kix/apollo-php",
+    "description": "Apollo GraphQL subscriptions helper",
+    "type": "library",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Stepan Anchugov",
+            "email": "kixxx1@gmail.com"
+        }
+    ],
+    "require": {}
+}
